@@ -1,4 +1,4 @@
-![logo](https://media.istockphoto.com/id/1517344698/photo/white-cyborg-robotic-hand-pointing-his-finger-to-human-hand-with-stretched-finger-ai.jpg?s=1024x1024&w=is&k=20&c=pxvURfhx_12Axs1cIsFgRHzupBABWM-BvRz4zpfFcaU=)
+![logo](https://cdn.pixabay.com/photo/2018/08/23/07/44/network-3625408_960_720.jpg)
 )
 <h1 align="center">Hi 👋, I'm Vansh Chauhan</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
