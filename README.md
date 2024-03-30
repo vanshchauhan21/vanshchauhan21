@@ -1,4 +1,5 @@
-![logo](![image](https://github.com/vanshchauhan21/vanshchauhan21/assets/143607775/4ac6680d-57a3-4b49-bf17-4c06f133a405)
+![logo](![Uploading image.png…]()
+)
 )
 <h1 align="center">Hi 👋, I'm Vansh Chauhan</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
