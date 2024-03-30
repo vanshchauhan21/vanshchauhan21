@@ -1,4 +1,4 @@
-![logo](https://media.istockphoto.com/id/1219864449/photo/future-artificial-intelligence-robot-and-cyborg.jpg?s=2048x2048&w=is&k=20&c=SuhwTADJxVI7c9jKNlSWkujFql10XclAoMEVgF5Qwjw=)
+![logo](https://cdn.pixabay.com/photo/2018/09/27/09/22/artificial-intelligence-3706562_1280.jpg)
 )
 <h1 align="center">Hi 👋, I'm Vansh Chauhan</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
