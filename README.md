@@ -13,7 +13,7 @@
 
 <p align="left"> <img height="auto" src="https://github-profile-trophy.vercel.app/?username=vanshchauhan21&theme=matrix&column=6&no-frame=false&no-bg=false&margin-w=19&margin-h=19" alt="image" /> </p>
 
-- 💪🏼 Working on [ozippa (local bussiness listing)](https://ozippa.com/)
+- 💪🏼 Working on [(My portfolio )](https://vanshchauhan-portfolio.vercel.app/)
 
 - 🌱 I’m currently learning **Reactjs & Nextjs**
 
