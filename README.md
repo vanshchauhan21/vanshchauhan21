@@ -53,6 +53,8 @@
 
 <br>
 
+# 📊 GitHub Stats:
+<img height="auto" src="https://komarev.com/ghpvc/?username=vanshchauhan21&label=Profile%20views&color=0e75b6&style=flat" alt="profile-radme-generator" />
 
 <img align="left" height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=vanshchauhan21&theme=dark-smoky&mode=daily&hide_border=false&locale=en" alt="profile-radme-generator" />
 
