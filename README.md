@@ -30,15 +30,15 @@
 ## GSSOC(24) Badges 🪶:
 
 <div style='display:flex; align-items:center; gap: 5px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="./assets/postman.png" width="85px" height="85px" />
+<img src="/postman.png" width="85px" height="85px" />
   <img src="1.png" width="85px" height="85px" />
-  <img src="./assets/2.png" width="85px" height="85px" />
-  <img src="./assets/3.png" width="85px" height="85px" />
-  <img src="./assets/4.png" width="85px" height="85px" />
-  <img src="./assets/5.png" width="85px" height="85px" />
-  <img src="./assets/6.png" width="85px" height="85px" />
-  <img src="./assets/7.png" width="85px" height="85px" />
-  <img src="./assets/8.png" width="85px" height="85px" /></a>
+  <img src="/2.png" width="85px" height="85px" />
+  <img src="/3.png" width="85px" height="85px" />
+  <img src="/4.png" width="85px" height="85px" />
+  <img src="/5.png" width="85px" height="85px" />
+  <img src="/6.png" width="85px" height="85px" />
+  <img src="/7.png" width="85px" height="85px" />
+  <img src="/8.png" width="85px" height="85px" /></a>
 </div>
 
 <img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=vanshchauhan21&show_icons=true&theme=dark&locale=en&hide_border=false" alt="profile-radme-generator" />
