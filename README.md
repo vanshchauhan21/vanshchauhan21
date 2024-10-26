@@ -22,6 +22,8 @@
 - 😂 Func Fact **Bats are the only mammal that can actually fly.**
 
 - 📫 How to reach me **chauhanvansh313@gmail.com**
+
+- ## 🏆 GitHub Trophies
 <p align="left"> <img height="auto" src="https://github-profile-trophy.vercel.app/?username=vanshchauhan21&theme=matrix&column=6&no-frame=false&no-bg=false&margin-w=19&margin-h=19" alt="image" /> </p>
 <h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://github.com/vanshchauhan21" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg alt="profile-radme-generator" height="30" width="40" /></a> <a href="https://linkedin.com/in/Vansh Chauhan" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg alt="profile-radme-generator" height="30" width="40" /></a> </p>
 
