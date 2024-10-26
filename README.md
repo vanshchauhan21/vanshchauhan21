@@ -63,7 +63,7 @@
 <img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=vanshchauhan21&show_icons=true&theme=highcontrast&locale=en&hide_border=false" alt="profile-radme-generator" />
 
 <img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshchauhan21&theme=highcontrast&hide_border=false" alt="profile-radme-generator" />
-
+<br>
   <b>Thank you for visiting my profile! If you appreciate my work, consider buying me a coffee or tea. 😊</b>
 
 
