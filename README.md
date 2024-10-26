@@ -41,7 +41,7 @@
   <img src="/8.png" width="85px" height="85px" /></a>
 </div>
 
-[![An image of @vanshchauhan21's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vanshchauhan21)](https://holopin.io/@vanshchauhan21)
+[![An image of @vanshchauhan21's Holopin badges, which is a link to view their full Holopin profile]](https://holopin.io/@vanshchauhan21)
 
 <img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=vanshchauhan21&show_icons=true&theme=dark&locale=en&hide_border=false" alt="profile-radme-generator" />
 
