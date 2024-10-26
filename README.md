@@ -6,7 +6,7 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Vansh Chauhan</h1>
 <h3 align="center">A Passionate  Full Stack/Web developer | Software Engineer Enthusiast</h3>
 
-<br/>
+
 
 
 <img height="auto" src="https://komarev.com/ghpvc/?username=vanshchauhan21&label=Profile%20views&color=0e75b6&style=flat" alt="profile-radme-generator" />
