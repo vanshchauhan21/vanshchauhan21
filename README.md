@@ -63,7 +63,6 @@
 <img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=vanshchauhan21&show_icons=true&theme=highcontrast&locale=en&hide_border=false" alt="profile-radme-generator" />
 
 <img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshchauhan21&theme=highcontrast&hide_border=false" alt="profile-radme-generator" />
-<h3 align="center">A Passionate  Full Stack/Web developer | Software Engineer Enthusiast</h3>
 
 
 
