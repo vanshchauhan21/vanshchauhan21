@@ -51,12 +51,12 @@
 
 
 
-<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=vanshchauhan21&show_icons=true&theme=dark&locale=en&hide_border=false" alt="profile-radme-generator" />
 
 
 
 <img align="left" height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=vanshchauhan21&theme=dark-smoky&mode=daily&hide_border=false&locale=en" alt="profile-radme-generator" />
 
+<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=vanshchauhan21&show_icons=true&theme=dark&locale=en&hide_border=false" alt="profile-radme-generator" />
 
 
 <img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshchauhan21&theme=dark&hide_border=false" alt="profile-radme-generator" />
