@@ -19,15 +19,14 @@
 
 <img align="right" alt="procoder" src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="300" />
 
-- 💪🏼 Working on [(My portfolio )](https://vanshchauhan-portfolio.vercel.app/)
+- 🔭 I’m currently working as * Open Source Contributor at GSSOC-ExtT'24' * 
 
-- 🌱 I’m currently learning **Reactjs & Nextjs**
-
-- 💬 Ask me about **Reactjs**
+- 🌱 I’m currently learning **Full Stack web Development | MERN**
 
 - 😂 Func Fact **Bats are the only mammal that can actually fly.**
 
 - 📫 How to reach me **chauhanvansh313@gmail.com**
+- 📍 From **India**
 
 - ## 🏆 GitHub Trophies
 
