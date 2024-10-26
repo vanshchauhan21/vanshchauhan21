@@ -41,7 +41,9 @@
   <img src="/8.png" width="85px" height="85px" /></a>
 </div>
 
+### 🔝 Top Contributed Repo
 
+![](https://github-contributor-stats.vercel.app/api?username=vanshchauhan21&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=vanshchauhan21&show_icons=true&theme=dark&locale=en&hide_border=false" alt="profile-radme-generator" />
 
