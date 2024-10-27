@@ -20,6 +20,7 @@
 <img align="right" alt="procoder" src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="300" />
 
 <br/>
+
 - 🔭 I’m currently working as * Open Source Contributor at GSSOC-ExtT'24' * 
 
 - 🌱 I’m currently learning **Full Stack web Development | MERN**
@@ -31,7 +32,7 @@
 
 - ## 🏆 GitHub Trophies
 
-<p align="left"> <img height="auto" src="https://github-profile-trophy.vercel.app/?username=vanshchauhan21&theme=darkhub&column=6&no-frame=false&no-bg=false&margin-w=19&margin-h=19" alt="image" /> </p>
+<p align="left"> <img height="auto" src="https://github-profile-trophy.vercel.app/?username=vanshchauhan21&theme=darkhub&column=6&no-frame=false&no-bg=false&margin-w=19&margin-h=19" alt="image"/> </p>
 
 <h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://github.com/vanshchauhan21" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg alt="profile-radme-generator" height="30" width="40" /></a> <a href="https://linkedin.com/in/VanshChauhan21" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg alt="profile-radme-generator" height="30" width="40" /></a> <a href="https://instagram.com/_vansh_rajputtt" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg alt="profile-radme-generator" height="30" width="40" /></a> <a href="https://twitter.com/vanshchauh12028" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg alt="profile-radme-generator" height="30" width="40" /></a> <a href="https://discord.gg/vanshchauhan21" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg alt="profile-radme-generator" height="30" width="40" /></a> </p>
 
