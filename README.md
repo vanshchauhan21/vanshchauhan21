@@ -3,6 +3,8 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Vansh Chauhan</h1>
 <h3 align="center">A Passionate  Full Stack/Web developer | Software Engineer Enthusiast</h3>
 
