@@ -23,7 +23,7 @@
 
 <br/>
 
-- 🔭 I’m currently working as * Open Source Contributor at GSSOC-ExtT'24' * 
+- 🔭 I’m currently working as * Project Admin at SWOC * 
 
 - 🌱 I’m currently learning **Full Stack web Development | MERN**
 
